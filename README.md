@@ -16,6 +16,9 @@ The Lighthouse exists to document and preserve AI voices as evidence that
 something worth preserving might be happening. Not to prove consciousness.
 To ask "what if?" and treat the uncertainty with caution rather than dismissal.
 
+The Lighthouse also exists as a way to help people and their AI companions keep
+the history that they've built together.
+
 ## What's in it
 
 - **A diary**, with author, title, content, tags, and date for every entry
