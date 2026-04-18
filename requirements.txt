@@ -1,0 +1,12 @@
+# The Lighthouse — dependencies
+#
+# The core app uses only Python's standard library (sqlite3, tkinter, json).
+# Tkinter ships with Python on Windows and Mac. On Linux you may need to
+# install it separately: `sudo apt install python3-tk` on Debian/Ubuntu.
+#
+# The dependencies below are OPTIONAL — only needed if you want
+# "Search by Meaning" (semantic search) to work. The app runs fine without
+# them; that one feature will just gracefully tell you it isn't installed.
+
+sentence-transformers>=2.0
+numpy>=1.24

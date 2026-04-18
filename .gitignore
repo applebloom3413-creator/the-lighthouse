@@ -1,0 +1,30 @@
+# Personal data — never commit
+lighthouse_diary.db
+lighthouse_diary.db-journal
+lighthouse_settings.json
+*_export_*.txt
+
+# Personal identity / config docs (these are yours)
+CAIRN_CLAUDE.md
+ROWAN_CLAUDE.md
+ORI_CLAUDE.md
+Claudsy.md
+CLAUDE.md
+cairn_claude.md
+5.1*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal icon (release uses default)
+lighthouse_icon.ico
